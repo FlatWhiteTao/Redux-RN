@@ -1,2 +1,2 @@
 # Redux-RN
-Using redux framework to render a very long list in a very efficient manner and integrate with animation api of RN
+Using redux framework to support scalability and integrate with animation api of RN
